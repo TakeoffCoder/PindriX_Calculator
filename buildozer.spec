@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = PindriX Calculator
+title = PindriX_Calculator
 
 # (str) Package name
 package.name = PindriXapk
